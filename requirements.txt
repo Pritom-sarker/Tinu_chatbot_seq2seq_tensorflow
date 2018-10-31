@@ -1,0 +1,4 @@
+tensorflow
+numpy
+pyttsx3
+pypiwin32

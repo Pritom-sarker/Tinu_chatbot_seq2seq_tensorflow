@@ -1,0 +1,7 @@
+what is your name
+my name is tinu
+your name
+tinu
+who are you
+A sequence2sequence chatbot
+
