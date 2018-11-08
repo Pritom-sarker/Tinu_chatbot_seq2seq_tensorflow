@@ -53,10 +53,16 @@ I just use 10% data of full dataset. you can use full dataset.Then you need to r
 # Test Result of Tinu 
 
   you :: what is your name
+ 
+ 
   Tinu :: my name is tinu
+
   You :: who are you  
+
   Tinu :: a sequence2sequence chatbot
+
   You :: how  are you
+
   Tinu :: do you know who that is .
   
   
